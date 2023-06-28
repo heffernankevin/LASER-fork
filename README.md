@@ -66,7 +66,7 @@ with code to reproduce our results (in the directory "tasks").
 * [**Sentence embedding of text files**](tasks/embed)
   example how to calculate sentence embeddings for arbitrary text files in any of the supported language.
 
-**For all tasks, we use exactly the same multilingual encoder, without any task specific optimization or fine-tuning.**
+**For all tasks, we use exactly the same multilingual encoder, without any task specific optimization or fine-tuning.** 
 
 ## License
 
